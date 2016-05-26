@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent_Services</string>
+    <string name="title_activity_activity__b">Activity_B</string>
+    <string name="title_activity_activity__c">Activity_C</string>
+</resources>
